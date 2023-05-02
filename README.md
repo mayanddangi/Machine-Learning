@@ -7,7 +7,7 @@ The Machine Learning repository contains implementations of several popular mach
 
 **Linear and Logistic Regression** models were developed to aid in the evaluation of Microsuturing, a surgical technique used for stitching under a microscope. The aim of this project was to predict the score of Microsuturing performed by trainees based on images, eliminating the need for senior doctors to spend precious time evaluating the images manually.
 
-For the *Support Vector Machines* implementation, a custom dataset was provided for classification tasks. 
+For the **Support Vector Machines** implementation, a custom dataset was provided for classification tasks. 
 
 **Decision Trees** were implemented on an image dataset of 2400 samples from 4 distinct classes, including airplane, car, dog, and person-face. 
 
